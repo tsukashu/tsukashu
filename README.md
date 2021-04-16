@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tsukashu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @tsukashu. \(*^_^*)/
+- 👀 I’m interested in ... Anything I feel interested.
+- 🌱 I’m currently learning ... Basic skills. Include Github.
+- 💞️ I’m looking to collaborate on ... OSS, in some way.
+- 📫 How to reach me ... However you like!!
 
 <!---
 tsukashu/tsukashu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
