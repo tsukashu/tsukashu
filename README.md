@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @tsukashu. \(*^_^*)/
-- 👀 I’m interested in ... Anything I feel interested.
-- 🌱 I’m currently learning ... Basic skills. Include Github.
-- 💞️ I’m looking to collaborate on ... OSS, in some way.
-- 📫 How to reach me ... However you like!!
+- 👀 I’m interested in ... Python, Powershell, Windows etc.
+- 🌱 I’m currently learning ... Mainly Python. 
+- 💞️ I’m looking to collaborate on ... Anyone who likes to enjoy coding ;).
+- 📫 How to reach me ... Anyway you like!!
+
+I'm also learning English. I'm sorry if you feel uncomfortable.
 
 <!---
 tsukashu/tsukashu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
