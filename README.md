@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsukashu. \(*^_^*)/
-- 👀 I’m interested in ... Python, Powershell, Windows etc.
-- 🌱 I’m currently learning ... Mainly Python. 
+- 👀 I’m interested in ... React, JavaScript, Python, Powershell, Windows etc.
+- 🌱 I’m currently learning ... React, JavaScript, and other Frontend stack. 
 - 💞️ I’m looking to collaborate on ... Anyone who likes to enjoy coding ;).
 - 📫 How to reach me ... Anyway you like!!
 
