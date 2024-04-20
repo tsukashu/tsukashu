@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @tsukashu. \(*^_^*)/
-- 👀 I’m interested in ... React, JavaScript, Python, Powershell, Windows etc.
-- 🌱 I’m currently learning ... React, JavaScript, and other Frontend stack. 
-- 💞️ I’m looking to collaborate on ... Anyone who likes to enjoy coding ;).
-- 📫 How to reach me ... Anyway you like!!
+- 👀 I’m interested in ... Astro🚀 and Web development (JavaScript, HTML5 and CSS3).
+- 🌱 I’m currently learning ... Typescript and JavaScript and English.
+- 💞️ I’m looking to collaborate on ... Anyone who likes to enjoy coding♪
+- 📫 How to reach me ... Anyway you like!!(sorry, no Email now) 
 
-I'm also learning English. I'm sorry if you feel uncomfortable.
+I'm learning English. I'm sorry if you feel uncomfortable. 
+
 
 <!---
 tsukashu/tsukashu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
