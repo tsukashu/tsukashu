@@ -2,7 +2,7 @@
 
 > 🇯🇵 [日本語](./README.ja.md)
 
-Self-taught frontend developer based in Japan.
+Self-taught frontend coder / developer, based in Japan.
 Started coding in 2022 — still building, still learning.
 
 ## 🛠 Tech Stack
@@ -21,4 +21,4 @@ Started coding in 2022 — still building, still learning.
 ## 🌱 Currently
 
 - Improving frontend skills through real projects
-- Learning by doing. Shipping by committing.
+- 'Learning by doing. Shipping by committing.'
